@@ -1,7 +1,7 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-Run : https://ai-powered-conversational-medicatio.vercel.app/settings
+Run : https://ai-powered-conversational-medicatio.vercel.app
 Click on it and use **MedAssist**
 
 For Running in your devices
