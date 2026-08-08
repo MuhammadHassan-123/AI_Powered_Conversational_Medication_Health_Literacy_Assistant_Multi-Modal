@@ -3,6 +3,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 Run : https://ai-powered-conversational-medicatio.vercel.app/settings
 Click on it and use **MedAssist**
+
+For Running in your devices
 First, run the development server:
 
 ```bash
