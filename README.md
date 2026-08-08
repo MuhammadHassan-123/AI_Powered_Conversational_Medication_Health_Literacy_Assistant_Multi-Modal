@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
-
+Run : https://ai-powered-conversational-medicatio.vercel.app/settings
+Click on it and use **MedAssist**
 First, run the development server:
 
 ```bash
